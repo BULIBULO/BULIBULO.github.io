@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+name: "BULIBULO's blog"
+description: "learning"
+footer-links:
+  email: duanjunting99121@gmail.com
